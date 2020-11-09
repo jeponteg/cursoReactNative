@@ -1,2 +1,2 @@
 "# cursoReactNative" 
-"## Este es el primer componente" 
+## Este es el primer componente
